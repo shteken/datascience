@@ -1,2 +1,2 @@
 # datascience
-Data Analysis Scripts
+Data Analysis Scripts in Python

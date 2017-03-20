@@ -10,7 +10,7 @@ last_repo_id = None
 
 try:
     with open('status', 'r') as inputfile:
-        since_id = int(inputfile.readline())  # check if we already stated the programm
+        since_id = int(inputfile.readline())  # check if we already started the programm
 except:
         since_id = 28677545  # first repository in 2015
 try:
